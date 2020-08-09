@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a949794a6ac94b5cbb1134cb8fa34b77" Name="Diagram1">
+        <EntityTypeShape EntityType="DatabaseModel.Role" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.User" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DatabaseModel.FK__User__RoleId__1367E606" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DatabaseModel.Product" Width="1.5" PointX="3" PointY="4.875" />
+        <EntityTypeShape EntityType="DatabaseModel.ProductType" Width="1.5" PointX="0.75" PointY="5.125" />
+        <AssociationConnector Association="DatabaseModel.FK__Product__Product__25869641" />
+        <AssociationConnector Association="DatabaseModel.FK__Product__UserId__34C8D9D1" />
+        <EntityTypeShape EntityType="DatabaseModel.Cart" Width="1.5" PointX="5.25" PointY="3.375" />
+        <AssociationConnector Association="DatabaseModel.FK__Cart__ProductId__3F115E1A" />
+        <AssociationConnector Association="DatabaseModel.FK__Cart__UserId__40058253" />
+        <EntityTypeShape EntityType="DatabaseModel.PaymentType" Width="1.5" PointX="5.375" PointY="0.75" />
+        <EntityTypeShape EntityType="DatabaseModel.DetailTransaction" Width="1.5" PointX="9.875" PointY="3.5" />
+        <EntityTypeShape EntityType="DatabaseModel.HeaderTransaction" Width="1.5" PointX="7.625" PointY="1.25" />
+        <AssociationConnector Association="DatabaseModel.FK__DetailTra__Produ__6CD828CA" />
+        <AssociationConnector Association="DatabaseModel.FK__DetailTra__Trans__6BE40491" />
+        <AssociationConnector Association="DatabaseModel.FK__HeaderTra__Payme__634EBE90" />
+        <AssociationConnector Association="DatabaseModel.FK__HeaderTra__UserI__625A9A57" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

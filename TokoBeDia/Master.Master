@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="TokoBeDia.view.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="public/css/bootstrap.css" />
+</head>
+<body>
+    <form runat="server">
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item"><a class="nav-link" href="ViewProduct.aspx">View Product</a></li>
+
+                        <%
+                            if (Session["userId"] == null)
+                            {
+                        %>
+                        <li class="nav-item"><a class="nav-link" href="Login.aspx">Login</a></li>
+
+                        <%} %>
+                        <%else if ((String)Session["role"] == "admin")
+                            { %>
+                        <li class="nav-item"><a class="nav-link" href="ViewUser.aspx">View User</a></li>
+                        <li class="nav-item"><a class="nav-link" href="ViewProductType.aspx">View Product Type</a></li>
+                        <li class="nav-item"><a class="nav-link" href="ViewPaymentType.aspx">View Payment Type</a></li>
+                        <li class="nav-item"><a class="nav-link" href="TransactionReport.aspx">View Transaction Report</a></li>
+                        <li class="nav-item"><a class="nav-link" href="ChangePassword.aspx">Change Password</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Profile.aspx">Profile</a></li>
+                        <asp:Button runat="server" OnClick="btnLogout_Click" Text="Logout" CssClass="btn btn-dark" />
+                        <% }%>
+                        <%else if ((String)Session["role"] == "member")
+                            { %>
+                        <li class="nav-item"><a class="nav-link" href="ChangePassword.aspx">Change Password</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Profile.aspx">Profile</a></li>
+                        <li class="nav-item"><a class="nav-link" href="ViewCart.aspx">View Cart</a></li>
+                        <asp:Button runat="server" OnClick="btnLogout_Click" Text="Logout" CssClass="btn btn-dark" />
+                        <%} %>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="container">
+
+            <asp:ContentPlaceHolder ID="container" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+</body>
+</html>

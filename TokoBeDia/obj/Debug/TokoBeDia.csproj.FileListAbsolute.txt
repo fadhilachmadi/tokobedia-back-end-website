@@ -1,0 +1,113 @@
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+c:\users\vince\documents\visual studio 2015\Projects\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Vincent Sanjaya\Documents\tokobedia\tokobedia-master\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuti\Desktop\Project PSD\tokobedia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.Web.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\stdole.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\tokobedia\TokoBeDia\obj\Debug\TokoBeDia.pdb
