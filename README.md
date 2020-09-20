@@ -3,16 +3,16 @@ Merupakan project kuliah yang dikerjakan secara berkelompok. Project yang dibuat
 terhadap sebuah data. Project kali ini juga menginmplementasikan sebuah program dari e-commerce, seperti register/login, memasukkan barang pembelian, melakukan check out/transaksi, 
 hingga history/riwayat pembelian yang pernah dilakukan sebelumnya oleh user. Berikut adalah beberapa fitur yang dimiliki dalam project ToKoBedia
 
-<h2> 1. Login/Register </h2>
+<h4> 1. Login/Register </h4>
 
-<h2> 2. View and Update Profile </h2>
+<h4> 2. View and Update Profile </h4>
 
-<h2> 3. View, Insert, Update, Delete Product </h2>
+<h4> 3. View, Insert, Update, Delete Product </h4>
 
-<h2> 4. View, Insert, Update, Delete Product Type </h2>
+<h4> 4. View, Insert, Update, Delete Product Type </h4>
 
-<h2> 5. View and Insert Payment Type </h2>
+<h4> 5. View and Insert Payment Type </h4>
 
-<h2> 6. Checkout </h2>
+<h4> 6. Checkout </h4>
 
-<h2> 7. View Transaction History </h2>
+<h4> 7. View Transaction History </h4>
